@@ -1,7 +1,5 @@
 ## Customize
 
-Now that you've got the code, follow these steps to get acclimated:
-
 - Update project name and description in `package.json` and
   `.travis.yml` files
 - `npm install`
